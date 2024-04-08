@@ -3,4 +3,5 @@ Data analysis projects completed as part of the Data Analyst Bootcamp Course (Ca
 1) FTSE - Data Analysis with Pandas
 2) Covid19 - Data Analysis with Pandas
 3) Mental Health Dataset - using SQL
-4) Airline Flights Dataset - using SQL
+4) Airline Flights Dataset Notebook 1 - using SQL
+5) Airline Flights Dataset Notebook 2 - using SQL
