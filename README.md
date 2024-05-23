@@ -9,4 +9,4 @@ This repository contains data analysis projects completed as part of the Data An
 7) Energy Demand - Pandas, Matplotlib, Seaborn
 8) Australian Migration Trends 2005 to 2023 - Data Exploration Portfolio Submission
 9) Netflix Data Analysis - to be added
-10) Lost Property on the Parliamentary Estate - personal interest project
+10) Lost Property on the Parliamentary Estate - personal interest data cleaning and analysis project (Pandas, Matplotlib)
