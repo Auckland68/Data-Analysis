@@ -1,4 +1,4 @@
-This repository contains data analysis projects completed as part of the Data Analyst Bootcamp Course (Cambridge Spark) and other data analysis projects completed for personal interest:
+This repository contains data analysis projects completed as part of the Data Analyst Bootcamp Course (Cambridge Spark) and some other data analysis projects completed for personal interest:
 
 1) FTSE - Data Analysis with Pandas
 2) Covid19 - Data Analysis with Pandas
@@ -10,3 +10,4 @@ This repository contains data analysis projects completed as part of the Data An
 8) Australian Migration Trends 2005 to 2023 - Data Exploration Portfolio Submission
 9) Netflix Data Analysis - to be added
 10) Lost Property on the Parliamentary Estate - personal interest data cleaning and analysis project (Pandas, Matplotlib)
+11) Irregular Arrivals to the UK Data Analysis (2018 to 2024).
