@@ -1,7 +1,7 @@
 This repository contains:
 
-Data analysis projects completed as part of the Data Analyst Bootcamp Course (Cambridge Spark) 
-Other data analysis projects completed for personal interest
+* Data analysis projects completed as part of the Data Analyst Bootcamp Course (Cambridge Spark) 
+* Other data analysis projects completed for personal interest
 
 1) FTSE - Data Analysis with Pandas
 2) Covid19 - Data Analysis with Pandas
