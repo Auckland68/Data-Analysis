@@ -14,3 +14,4 @@ This repository contains:
 9) Netflix Data Analysis - to be added
 10) Lost Property on the Parliamentary Estate - personal interest data cleaning and analysis project (Pandas, Matplotlib)
 11) Irregular Arrivals to the UK Data Analysis (2018 to 2024).
+12) Analysis of police open crime data in Hampshire
