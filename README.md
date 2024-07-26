@@ -1,6 +1,7 @@
 This repository contains:
 
-* Data analysis projects completed as part of the Data Analyst Bootcamp Course (Cambridge Spark) 
+* Data analysis projects completed as part of the Data Analyst Bootcamp Course (Cambridge Spark)
+* Database project for completion of Code First Girls SQL course sponsored by GCHQ
 * Other data analysis projects completed for personal interest
 
 1) FTSE - Data Analysis with Pandas
