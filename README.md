@@ -19,4 +19,4 @@ Note: Data Analysis is also included as an essential part of machine learning an
 11) Irregular Arrivals to the UK Data Analysis (2018 to 2024).
 12) Analysis of police open crime data in Hampshire
 13) Analysis of England and Wales police open crime data
-14) TripAdvisor Database for Code First Girls SQL course sponsored by GCHQ
+14) TripAdvisor Database for Code First Girls SQL course sponsored by GCHQ - Create database, query, create stored procedures, stored functions, triggers, events and views
