@@ -4,6 +4,8 @@ This repository contains:
 * Database project for completion of Code First Girls SQL course sponsored by GCHQ
 * Other data analysis projects completed for personal interest
 
+Note: Data Analysis is also included as an essential part of machine learning and deep learning models and as such is also included under the other repositories in this portfolio
+
 1) FTSE - Data Analysis with Pandas
 2) Covid19 - Data Analysis with Pandas
 3) Mental Health Analysis
