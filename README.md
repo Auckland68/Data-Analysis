@@ -8,10 +8,10 @@ Note: Data Analysis is also included as an essential part of machine learning an
 
 1) FTSE - Data Analysis with Pandas
 2) Covid19 - Data Analysis with Pandas
-3) Mental Health Analysis
-4) Airline Flights Analysis
-5) Airline Flights Analysis 2
-6) Craft Beer Analysis
+3) Mental Health Analysis SQLite
+4) Airline Flights Analysis SQLite
+5) Airline Flights Analysis 2 SQLite
+6) Craft Beer Analysis SQLite
 7) Energy Demand - Pandas, Matplotlib, Seaborn
 8) Australian Migration Trends 2005 to 2023 - Data Exploration Portfolio Submission
 9) Netflix Data Analysis - to be added
