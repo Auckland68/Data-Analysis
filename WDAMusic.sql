@@ -148,6 +148,29 @@ ORDER BY
 	CustomerFullName;
 
 -- Grouping
+
+-- Average spend of customers in each City
+SELECT
+	BillingCity AS City,
+	AVG(Total) AS 'Average Spend'
+FROM 
+	Invoice i
+GROUP BY BillingCity
+ORDER BY
+	City;
+
+-- Average invoice totals by billing City with ROUND
+
+SELECT	
+	BillingCity,
+	ROUND(AVG(Total),2) AS 'Average Total'
+FROM
+	Invoice
+GROUP BY
+	BillingCity
+ORDER BY
+	BillingCity;
+	
 -- Average invoice totals by billing country
 
 SELECT
@@ -159,18 +182,64 @@ FROM
 GROUP BY
 	BillingCountry, BillingCity
 ORDER BY 
-	BillingCountry DESC;
+	BillingCountry DESC
+
+-- Grouping with WHERE
+SELECT	
+	BillingCity,
+	ROUND(AVG(Total),2) AS 'Average Total'
+FROM
+	Invoice
+WHERE BillingCity LIKE 'L%'
+GROUP BY
+	BillingCity
+ORDER BY
+	BillingCity;
 	
 
--- Average spend of customers in each City
-SELECT
-	BillingCity AS City,
-	AVG(Total) AS 'Average Spend'
-FROM 
-	Invoice i
-GROUP BY BillingCity
+-- Grouping with HAVING 
+SELECT	
+	BillingCity,
+	ROUND(AVG(Total),2) AS 'Average Total'
+FROM
+	Invoice
+GROUP BY
+	BillingCity
+HAVING 'Average Total' > 5
 ORDER BY
-	City;
+	BillingCity;
+	
+
+-- Combine WHERE and HAVING Clauses
+SELECT
+	BillingCity,
+	ROUND(AVG(Total),2) AS 'Average Total'
+FROM
+	Invoice
+WHERE 
+	BillingCity LIKE 'B%'
+GROUP BY
+	BillingCity
+HAVING
+	'Average Total' > 5
+ORDER BY
+	BillingCity;
+	
+	
+-- Grouping many fields
+SELECT
+	BillingCountry,
+	BillingCity,
+	ROUND(AVG(Total),2) AS 'Average Total'
+FROM
+	Invoice
+GROUP BY
+	BillingCountry, BillingCity
+HAVING
+	'Average Total' > 5
+ORDER BY
+	BillingCountry;
+
 	
 -- Subqueries in the WHERE clause
 -- Get the Invoice details where the total spend is less than the average 
