@@ -21,3 +21,4 @@ Note: Data Analysis is also included as an essential part of machine learning an
 13) Analysis of England and Wales police open crime data - personal interest project
 14) TripAdvisor Database for Code First Girls SQL course sponsored by GCHQ - Create database, queries, subqueries, stored procedures, stored functions, triggers, events and views
 15) Track Listing Project SQL Lite
+16) Analysis of Fires in London due to White Goods
