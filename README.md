@@ -14,11 +14,11 @@ Note: Data Analysis is also included as an essential part of machine learning an
 6) Craft Beer Analysis SQLite
 7) Energy Demand - Pandas, Matplotlib, Seaborn
 8) Australian Migration Trends 2005 to 2023 - Data Exploration Portfolio Submission
-9) Netflix Data Analysis - to be added
-10) Lost Property on the Parliamentary Estate - personal interest data cleaning and analysis project (Pandas, Matplotlib)
-11) Irregular Arrivals to the UK Data Analysis (2018 to 2024) - personal interest project
-12) Analysis of police open crime data in Hampshire - personal interest project
-13) Analysis of England and Wales police open crime data - personal interest project
+9) Netflix Data Analysis - to be added (personal interest)
+10) Lost Property on the Parliamentary Estate - personal interest data cleaning and analysis project (personal interest)
+11) Irregular Arrivals to the UK Data Analysis (2018 to 2024) (personal interest)
+12) Analysis of police open crime data in Hampshire  (personal interest)
+13) Analysis of England and Wales police open crime data (personal interest)
 14) TripAdvisor Database for Code First Girls SQL course sponsored by GCHQ - Create database, queries, subqueries, stored procedures, stored functions, triggers, events and views
 15) Track Listing Project SQL Lite
-16) Analysis of Fires in London due to White Goods
+16) Analysis of Fires in London due to White Goods (personal interest)
