@@ -23,3 +23,4 @@ Note: Data Analysis is also included as an essential part of machine learning an
 15) Track Listing Project SQL Lite
 16) Analysis of Fires in London due to White Goods (personal interest)
 17) Dubai Rents Exploratory Analysis and Prediction (personal interest)
+18) Virgin Airline Reviews Web Scraping and Data Analysis (Notebooks 1 and 2)
