@@ -24,3 +24,4 @@ Note: Data Analysis is also included as an essential part of machine learning an
 16) Analysis of Fires in London due to White Goods (personal interest)
 17) Dubai Rents Exploratory Analysis and Prediction (personal interest)
 18) Virgin Airline Reviews - Notebook 1 Webscraping, Notebook 2 - Data Analysis
+19) Antigua Visitor Numbers
