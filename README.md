@@ -57,6 +57,9 @@ The projects using SQL Lite and MySQL Workbench are also included within the SQL
 
 [Track Listing](https://github.com/Auckland68/Data-Analysis/blob/main/WDAMusic.sql)
 
-## Code First Girls
+## Code First Girls Final Project for Coding Kickstarter - Data and SQL sponsored by GCHQ
+
+Including:
+Building databases, retrieving, sorting and modifying data, grouping and cleaning data, joins and views and functions
 
 [Trip Advisor Database and Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/tripadvisorscriptfile.sql)
