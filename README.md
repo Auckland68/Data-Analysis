@@ -31,7 +31,9 @@ Note: Data Analysis is also included as an essential part of machine learning an
 [Virgin Atlantic Customer Reviews Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/VirginAtlanticReviewsNB2DataAnalysis.ipynb)
 
 
-## Data Analytics Projects for Cambridge Spark Cours
+## Data Analytics Projects for Cambridge Spark Course
+
+The projects using SQL Lite and MySQL Workbench are also included within the SQL repository
 
 [FTSE Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/ftse.ipynb)
 
