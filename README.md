@@ -2,8 +2,9 @@
 
 This repository contains:
 
-* Other data analysis projects completed for personal interest
+* Data analysis projects completed for personal interest
 * Data analysis projects completed as part of the Data Analyst Bootcamp Course (Cambridge Spark)
+* Data analysis final project for Code First Girls Course 
 
 Note: Data Analysis is also included as an essential part of machine learning and deep learning models and as such is also included under the other repositories in this portfolio
 
@@ -29,6 +30,7 @@ Note: Data Analysis is also included as an essential part of machine learning an
 
 [Virgin Atlantic Customer Reviews Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/VirginAtlanticReviewsNB2DataAnalysis.ipynb)
 
+
 ## Data Analytics Projects for Cambridge Spark Cours
 
 [FTSE Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/ftse.ipynb)
@@ -39,9 +41,16 @@ Note: Data Analysis is also included as an essential part of machine learning an
 
 [Australian Migration Trends](https://github.com/Auckland68/Data-Analysis/blob/main/AustralianMigrationTrendsProject.ipynb)
 
-3) Mental Health Analysis SQLite
-4) Airline Flights Analysis SQLite
-5) Airline Flights Analysis 2 SQLite
-6) Craft Beer Analysis SQLite
-14) TripAdvisor Database for Code First Girls SQL course sponsored by GCHQ - Create database, queries, subqueries, stored procedures, stored functions, triggers, events and views
-15) Track Listing Project SQL Lite
+[Mental Health](https://github.com/Auckland68/Data-Analysis/blob/main/mental_health.ipynb)
+
+[Airline Flights](https://github.com/Auckland68/Data-Analysis/blob/main/sql_flights.ipynb)
+
+[Airline Flights 2](https://github.com/Auckland68/Data-Analysis/blob/main/sql_flights2.ipynb)
+
+[Craft Beer](https://github.com/Auckland68/Data-Analysis/blob/main/craft_beer_analysis.ipynb)
+
+[Track Listing](https://github.com/Auckland68/Data-Analysis/blob/main/WDAMusic.sql)
+
+## Code First Girls
+
+[Trip Advisor Database and Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/tripadvisorscriptfile.sql)
