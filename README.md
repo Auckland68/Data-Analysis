@@ -43,9 +43,13 @@ Note: Data Analysis is also included as an essential part of machine learning an
 
 [Mental Health](https://github.com/Auckland68/Data-Analysis/blob/main/mental_health.ipynb)
 
+[Property Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/property.ipynb)
+
 [Airline Flights](https://github.com/Auckland68/Data-Analysis/blob/main/sql_flights.ipynb)
 
 [Airline Flights 2](https://github.com/Auckland68/Data-Analysis/blob/main/sql_flights2.ipynb)
+
+[British Road Use](https://github.com/Auckland68/Data-Analysis/blob/main/traffic.ipynb)
 
 [Craft Beer](https://github.com/Auckland68/Data-Analysis/blob/main/craft_beer_analysis.ipynb)
 
