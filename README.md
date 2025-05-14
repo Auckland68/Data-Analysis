@@ -32,10 +32,12 @@ Note: Data Analysis is also included as an essential part of machine learning an
 ## Data Analytics Projects for Cambridge Spark Cours
 
 [FTSE Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/ftse.ipynb)
-[Covid 19](https://github.com/Auckland68/Data-Analysis/blob/main/coronavirus.ipynb)
-[Energy Demand](https://github.com/Auckland68/Data-Analysis/blob/main/energy.ipynb)
-[Australian Migration Trends](https://github.com/Auckland68/Data-Analysis/blob/main/AustralianMigrationTrendsProject.ipynb)
 
+[Covid 19](https://github.com/Auckland68/Data-Analysis/blob/main/coronavirus.ipynb)
+
+[Energy Demand](https://github.com/Auckland68/Data-Analysis/blob/main/energy.ipynb)
+
+[Australian Migration Trends](https://github.com/Auckland68/Data-Analysis/blob/main/AustralianMigrationTrendsProject.ipynb)
 
 3) Mental Health Analysis SQLite
 4) Airline Flights Analysis SQLite
