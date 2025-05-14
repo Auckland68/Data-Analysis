@@ -1,11 +1,18 @@
 
 [Antigua Tourism Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/AntiguaExploringSurgeinTourismNumbers.ipynb)
+
 [Australian Migration Trends](https://github.com/Auckland68/Data-Analysis/blob/main/AustralianMigrationTrendsProject.ipynb)
+
 [Dubai Rental Market Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/DubaiRentsEDAAndPrediction%20-%20Jupyter%20Notebook.pdf)
+
 [Hampshire Crime Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/HampshireCrimeAnalysisNB1DataExploration.pdf)
+
 [UK Irregular Arrivals Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/IrregularArrivalsUK.ipynb)
+
 [London White Goods Fires Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/LondonFireWhiteGoodsFiresAnalysis.ipynb)
+
 [Parliamentary Lost Property](https://github.com/Auckland68/Data-Analysis/blob/main/Parliamentary%20Lost%20Property%20Analysis.ipynb)
+
 [UK Police Crime Statistics Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/PoliceCrimeStats2023.ipynb)
 
 
