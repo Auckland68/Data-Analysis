@@ -8,7 +8,7 @@ This repository contains:
 
 Note: Data Analysis is also included as an essential part of machine learning and deep learning models and as such is also included under the other repositories in this portfolio
 
-## Personal Interest Projects
+## My Personal Interest Projects
 
 [Antigua Tourism Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/AntiguaExploringSurgeinTourismNumbers.ipynb)
 
@@ -31,9 +31,9 @@ Note: Data Analysis is also included as an essential part of machine learning an
 [Virgin Atlantic Customer Reviews Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/VirginAtlanticReviewsNB2DataAnalysis.ipynb)
 
 
-## Data Analytics Projects for Cambridge Spark Course
+## Simple Data Analytics Projects required for Cambridge Spark Course Level 4
 
-The projects using SQL Lite and MySQL Workbench are also included within the SQL repository
+Pandas and Bokeh
 
 [FTSE Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/ftse.ipynb)
 
@@ -43,15 +43,17 @@ The projects using SQL Lite and MySQL Workbench are also included within the SQL
 
 [Australian Migration Trends](https://github.com/Auckland68/Data-Analysis/blob/main/AustralianMigrationTrendsProject.ipynb)
 
-[Mental Health](https://github.com/Auckland68/Data-Analysis/blob/main/mental_health.ipynb)
-
 [Property Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/property.ipynb)
+
+[British Road Use](https://github.com/Auckland68/Data-Analysis/blob/main/traffic.ipynb)
+
+SQL Lite Course Projects - These are also included within the SQL repository
+
+[Mental Health](https://github.com/Auckland68/Data-Analysis/blob/main/mental_health.ipynb)
 
 [Airline Flights](https://github.com/Auckland68/Data-Analysis/blob/main/sql_flights.ipynb)
 
 [Airline Flights 2](https://github.com/Auckland68/Data-Analysis/blob/main/sql_flights2.ipynb)
-
-[British Road Use](https://github.com/Auckland68/Data-Analysis/blob/main/traffic.ipynb)
 
 [Craft Beer](https://github.com/Auckland68/Data-Analysis/blob/main/craft_beer_analysis.ipynb)
 
