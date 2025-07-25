@@ -28,7 +28,8 @@ Note: Data Analysis is also included as an essential part of machine learning an
 
 [Virgin Atlantic Customer Reviews Web-scraping and Cleaning](https://github.com/Auckland68/Data-Analysis/blob/main/VirginAtlanticReviewsNB1WebScrapingAndCleaning.ipynb)
 
-[Virgin Atlantic Customer Reviews Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/VirginAtlanticReviewsNB2DataAnalysis.ipynb)
+[Sky High or Grounded?: Unpacking the truth behind Airline Reviews](https://github.com/Auckland68/Data-Analysis/blob/main/VirginAtlanticReviewsNB2DataAnalysis.ipynb)
+
 
 
 ## Simple Data Analytics Projects required for Cambridge Spark Course Level 4
