@@ -8,7 +8,9 @@ This repository contains:
 
 Note: Data Analysis is also included as an essential part of machine learning and deep learning models and as such is also included under the other repositories in this portfolio
 
-## My Personal Interest Projects on [Substack[(https://icanalytics.substack.com/)
+## My Personal Interest Projects on Substack
+[Link to Substack](https://icanalytics.substack.com/)
+
 
 ['From Shore to Score: Decades of Migration Trends Down Under'](https://github.com/Auckland68/Data-Analysis/blob/main/AustralianMigrationTrends.pdf)
 
