@@ -28,7 +28,7 @@ Note: Data Analysis is also included as an essential part of machine learning an
 
 [Virgin Airline Reviews Web-scraping and Cleaning](https://github.com/Auckland68/Data-Analysis/blob/main/VirginReviewsWebScraping.pdf)
 
-[Sky High or Grounded?: Unpacking the truth behind Airline Reviews](https://github.com/Auckland68/Data-Analysis/blob/main/VirginAtlanticReviewsNB2DataAnalysis.ipynb)
+[Sky High or Grounded?: Unpacking the truth behind Airline Reviews](https://github.com/Auckland68/Data-Analysis/blob/main/VirginReviewsAnalysis.pdf)
 
 
 
