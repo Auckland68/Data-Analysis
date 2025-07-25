@@ -10,21 +10,13 @@ Note: Data Analysis is also included as an essential part of machine learning an
 
 ## My Personal Interest Projects
 
-[Antigua Tourism Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/AntiguaExploringSurgeinTourismNumbers.ipynb)
-
 ['From Shore to Score: Decades of Migration Trends Down Under'](https://github.com/Auckland68/Data-Analysis/blob/main/AustralianMigrationTrends.pdf)
 
 ['Unlocking Dubai's Rental Market: Predicting Rental Prices with Data-Driven Insights'](https://github.com/Auckland68/Data-Analysis/blob/main/DubaiRentPrediction.pdf)
 
-[Hampshire Crime Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/HampshireCrimeAnalysisNB1DataExploration.pdf)
-
 ['Navigating the Numbers:Analysing Irregular Arrivals across the Channel'](https://github.com/Auckland68/Data-Analysis/blob/main/IrregularArrivals.pdf)
 
 ['When Appliances Kill' - Analysis of London White Goods Fires](https://github.com/Auckland68/Data-Analysis/blob/main/LondonWhiteGoods.pdf)
-
-[Parliamentary Lost Property](https://github.com/Auckland68/Data-Analysis/blob/main/Parliamentary%20Lost%20Property%20Analysis.ipynb)
-
-[UK Police Crime Statistics Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/PoliceCrimeStats2023.ipynb)
 
 [Virgin Airline Reviews Web-scraping and Cleaning](https://github.com/Auckland68/Data-Analysis/blob/main/VirginReviewsWebScraping.pdf)
 
