@@ -20,7 +20,7 @@ Note: Data Analysis is also included as an essential part of machine learning an
 
 [UK Irregular Arrivals Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/IrregularArrivalsUK.ipynb)
 
-[London White Goods Fires Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/LondonFireWhiteGoodsFiresAnalysis.ipynb)
+['When Appliances Kill' - London White Goods Fires Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/LondonFireWhiteGoodsFiresAnalysis.ipynb)
 
 [Parliamentary Lost Property](https://github.com/Auckland68/Data-Analysis/blob/main/Parliamentary%20Lost%20Property%20Analysis.ipynb)
 
