@@ -12,7 +12,7 @@ Note: Data Analysis is also included as an essential part of machine learning an
 
 [Antigua Tourism Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/AntiguaExploringSurgeinTourismNumbers.ipynb)
 
-['From Shore to Score: Decades of Migration Trends Down Under'](https://github.com/Auckland68/Data-Analysis/blob/main/AustralianMigrationTrendsProject.ipynb)
+['From Shore to Score: Decades of Migration Trends Down Under'](https://github.com/Auckland68/Data-Analysis/blob/main/AustralianMigrationTrends.pdf)
 
 ['Unlocking Dubai's Rental Market: Predicting Rental Prices with Data-Driven Insights'](https://github.com/Auckland68/Data-Analysis/blob/main/DubaiRentPrediction.pdf)
 
