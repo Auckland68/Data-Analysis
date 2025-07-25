@@ -14,11 +14,11 @@ Note: Data Analysis is also included as an essential part of machine learning an
 
 [Australian Migration Trends](https://github.com/Auckland68/Data-Analysis/blob/main/AustralianMigrationTrendsProject.ipynb)
 
-[Dubai Rental Market Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/DubaiRentsEDAAndPrediction%20-%20Jupyter%20Notebook.pdf)
+['Unlocking Dubai's Rental Market: Predicting Rental Prices with Data-Driven Insights'](https://github.com/Auckland68/Data-Analysis/blob/main/DubaiRentPrediction.pdf)
 
 [Hampshire Crime Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/HampshireCrimeAnalysisNB1DataExploration.pdf)
 
-[Navigating the Numbers:Analysing Irregular Arrivals across the Channel](https://github.com/Auckland68/Data-Analysis/blob/main/IrregularArrivals.pdf)
+['Navigating the Numbers:Analysing Irregular Arrivals across the Channel'](https://github.com/Auckland68/Data-Analysis/blob/main/IrregularArrivals.pdf)
 
 ['When Appliances Kill' - Analysis of London White Goods Fires](https://github.com/Auckland68/Data-Analysis/blob/main/LondonWhiteGoods.pdf)
 
@@ -28,7 +28,7 @@ Note: Data Analysis is also included as an essential part of machine learning an
 
 [Virgin Airline Reviews Web-scraping and Cleaning](https://github.com/Auckland68/Data-Analysis/blob/main/VirginReviewsWebScraping.pdf)
 
-[Sky High or Grounded?: Unpacking the truth behind Airline Reviews](https://github.com/Auckland68/Data-Analysis/blob/main/VirginReviewsAnalysis.pdf)
+['Sky High or Grounded?: Unpacking the truth behind Airline Reviews'](https://github.com/Auckland68/Data-Analysis/blob/main/VirginReviewsAnalysis.pdf)
 
 
 
