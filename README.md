@@ -26,7 +26,7 @@ Note: Data Analysis is also included as an essential part of machine learning an
 
 [UK Police Crime Statistics Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/PoliceCrimeStats2023.ipynb)
 
-[Virgin Atlantic Customer Reviews Web-scraping and Cleaning](https://github.com/Auckland68/Data-Analysis/blob/main/VirginAtlanticReviewsNB1WebScrapingAndCleaning.ipynb)
+[Virgin Airline Reviews Web-scraping and Cleaning](https://github.com/Auckland68/Data-Analysis/blob/main/VirginAtlanticReviewsNB1WebScrapingAndCleaning.ipynb)
 
 [Sky High or Grounded?: Unpacking the truth behind Airline Reviews](https://github.com/Auckland68/Data-Analysis/blob/main/VirginAtlanticReviewsNB2DataAnalysis.ipynb)
 
