@@ -18,7 +18,7 @@ Note: Data Analysis is also included as an essential part of machine learning an
 
 [Hampshire Crime Analysis](https://github.com/Auckland68/Data-Analysis/blob/main/HampshireCrimeAnalysisNB1DataExploration.pdf)
 
-[Navigating the Numbers:Analysing Irregular Arrivals across the Channel](https://github.com/Auckland68/Data-Analysis/blob/main/IrregularArrivalsUKUpdated.ipynb)
+[Navigating the Numbers:Analysing Irregular Arrivals across the Channel](https://github.com/Auckland68/Data-Analysis/blob/main/IrregularArrivals.pdf)
 
 ['When Appliances Kill' - Analysis of London White Goods Fires](https://github.com/Auckland68/Data-Analysis/blob/main/LondonWhiteGoods.pdf)
 
