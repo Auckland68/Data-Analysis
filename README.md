@@ -2,7 +2,7 @@
 
 This repository contains:
 
-* Data analysis projects completed for personal interest
+* Data analysis projects completed for personal interest on my Substack
 * Data analysis projects completed as part of the Data Analyst Bootcamp Course (Cambridge Spark)
 * Data analysis final project for Code First Girls Course 
 
