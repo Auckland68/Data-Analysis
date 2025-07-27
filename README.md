@@ -2,7 +2,7 @@
 
 This repository contains:
 
-* Data analysis projects completed for personal interest on my Substack
+* Data analysis and ML projects ocompleted for personal interest on my Substack
 * Data analysis projects completed as part of the Data Analyst Bootcamp Course (Cambridge Spark)
 * Data analysis final project for Code First Girls Course 
 
@@ -24,7 +24,7 @@ Note: Data Analysis is also included as an essential part of machine learning an
 
 ['Sky High or Grounded?: Unpacking the truth behind Airline Reviews'](https://github.com/Auckland68/Data-Analysis/blob/main/VirginReviewsAnalysis.pdf)
 
-
+['Breaking Down the Blue Line (Part 1):Crime Trends in Jane Austen Country'](https://github.com/Auckland68/Data-Analysis/blob/main/HampshireCrimeAnalysisNB1DataExplorationUpdated.ipynb)
 
 ## Simple Data Analytics Projects required for Cambridge Spark Course Level 4
 
