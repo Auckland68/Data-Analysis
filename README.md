@@ -24,8 +24,6 @@ Note: Data Analysis is also included as an essential part of machine learning an
 
 ['Sky High or Grounded?: Unpacking the truth behind Airline Reviews'](https://github.com/Auckland68/Data-Analysis/blob/main/VirginReviewsAnalysis.pdf)
 
-['Breaking Down the Blue Line (Part 1):Crime Trends in Jane Austen Country'](https://github.com/Auckland68/Data-Analysis/blob/main/HampshireCrimeAnalysisNB1DataExplorationUpdated.ipynb)
-
 ## Simple Data Analytics Projects required for Cambridge Spark Course Level 4
 
 Pandas and Bokeh
