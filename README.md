@@ -1,4 +1,4 @@
-# Substack Projects
+# [Substack Projects](https://icanalytics.substack.com/)
 
 This repository contains projects published on my Substack, including data analysis, machine learning and notebooks related to other articles on AI ethics. 
 
