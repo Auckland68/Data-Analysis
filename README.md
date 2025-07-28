@@ -1,16 +1,9 @@
-# Data Analysis Projects
-
-This repository contains:
-
-* Data analysis and ML projects ocompleted for personal interest on my Substack
-* Data analysis projects completed as part of the Data Analyst Bootcamp Course (Cambridge Spark)
-* Data analysis final project for Code First Girls Course 
+# Substack Projects
 
 Note: Data Analysis is also included as an essential part of machine learning and deep learning models and as such is also included under the other repositories in this portfolio
 
 ## Personal Interest Projects on Substack
 [Substack](https://icanalytics.substack.com/)
-
 
 ['From Shore to Score: Decades of Migration Trends Down Under'](https://github.com/Auckland68/Data-Analysis/blob/main/AustralianMigrationTrends.pdf)
 
