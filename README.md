@@ -1,6 +1,9 @@
 # Substack Projects
 
-Note: Data Analysis is also included as an essential part of machine learning and deep learning models and as such is also included under the other repositories in this portfolio
+This repository contains projects published on my Substack, including data analysis, machine learning and notebooks related to other articles on AI ethics. 
+
+Data Analysis is also included as an essential part of machine learning and deep learning models and as such is also included under the other repositories in this portfolio
+
 
 ## Personal Interest Projects on Substack
 [Substack](https://icanalytics.substack.com/)
