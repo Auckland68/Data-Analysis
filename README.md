@@ -19,7 +19,7 @@ This repository contains projects published on my Substack, including data analy
 
 ['Breaking Down the Thin Blue Line - Hampshire'](https://github.com/Auckland68/Substack-Projects/blob/main/BreakingTheThinBlueLineHampshire-compressed.pdf)
 
-[Crash Course Part One - Lessons From The Skies]
+[Crash Course Part One - Lessons From The Skies](https://github.com/Auckland68/Substack-Projects/blob/main/CrashCoursePart1-compressed.pdf)
 
 
 
