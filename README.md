@@ -17,7 +17,9 @@ This repository contains projects published on my Substack, including data analy
 
 ['Sky High or Grounded?: Unpacking the truth behind Airline Reviews'](https://github.com/Auckland68/Data-Analysis/blob/main/VirginReviewsAnalysis.pdf)
 
-['Breaking Donw the Thin Blue Line - Hampshire'](https://github.com/Auckland68/Substack-Projects/blob/main/BreakingTheThinBlueLineHampshire-compressed.pdf)
+['Breaking Down the Thin Blue Line - Hampshire'](https://github.com/Auckland68/Substack-Projects/blob/main/BreakingTheThinBlueLineHampshire-compressed.pdf)
+
+[Crash Course Part One - Lessons From The Skies]
 
 
 
